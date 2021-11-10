@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @asoldini
 - 👀 I’m interested in Data Visualization and Machine Learning!
-- 🌱 I’m currently learning python Dash and basic web-app building
 
 
 <!---
